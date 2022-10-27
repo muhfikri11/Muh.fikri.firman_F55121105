@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(247, 247, 250);
+    background-image: url(th.jpg);
+}
+tr{
+    font-style: italic;
+    color: rgb(247, 249, 248);
+}
